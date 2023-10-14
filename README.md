@@ -1,1 +1,2 @@
-# ghadee-bazaar
+# ghadee-bazaar: MERN Stack Project
+### Preview:  
